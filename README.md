@@ -6,7 +6,7 @@
 
 This test is part of our hiring process for Rails developers. [Apply now](https://jobs.livestorm.co/)
 
-## Context
+# Context
 
 We need to make a little role-player game to pass the time at lunch, but nobody was able to do it properly at Livestorm. We really count on you, as lunch is a very important meal for us.
 
