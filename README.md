@@ -73,6 +73,7 @@ This is a pragmatic example of storyboard, you're free to enhance the experience
 
 When you feel you are done, send us by email: 
 - A link to a **private GitHub repository** with an invite access for [@Loschcode](https://github.com/Loschcode)
+- Don't forget to write up a readme to explain how to run it
 
 ## Tips
 
