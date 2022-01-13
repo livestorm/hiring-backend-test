@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="140" src="https://svgshare.com/i/ZCX.svg">
+  <img width="400" height="140" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo-livestorm.svg">
 </p>
 
 # Livestorm Back-End Hiring Test
