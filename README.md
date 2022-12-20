@@ -2,7 +2,7 @@
   <img width="400" height="140" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo-livestorm.svg">
 </p>
 
-# Livestorm Back-End Hiring Test
+# Livestorm Back-End Hiring Test (Ruby)
 
 This test is part of our hiring process for Rails developers. [Apply now](https://jobs.livestorm.co/)
 
